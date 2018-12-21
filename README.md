@@ -1,2 +1,2 @@
 # Level_Set
-A Matlab based tool that demonstrates application of level set technique as an effective tool to achieve image segmentation
+A Matlab based tool that demonstrates application of level set as an effective technique to achieve image segmentation.
