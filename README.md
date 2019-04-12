@@ -13,3 +13,5 @@ A Matlab based tool that demonstrates application of level set as an effective t
     %   tr (qx1 vector): sum(sum(abs(phi_(n+1) - phi_n)))
     % Call:
     %   [phi,tr] = Level_Set(im,300,0.1,25,25)
+
+IMG6.JPG is a sample input image.
